@@ -1,0 +1,54 @@
+Sentence: She definatly wants to go.
+ - Issue: Possible spelling mistake found.
+
+Sentence: He go to the gym every morning.
+ - Issue: The pronoun ‘He’ is usually used with a third-person or a past tense verb.
+
+Sentence: Their going to the concert tonight.
+
+Sentence: I recieved your message yesturday.
+ - Issue: Possible spelling mistake found.
+ - Issue: Possible spelling mistake found.
+
+Sentence: We was happy to see you.
+ - Issue: Use a first-person plural verb with ‘we’.
+
+Sentence: The cat sat on mat.
+
+Sentence: Its a beautiful day.
+ - Issue: Did you mean “it's” (short for ‘it is’) instead of ‘its’ (possessive pronoun)?
+
+Sentence: She didnâ€™t knew about the plan.
+ - Issue: Possible spelling mistake found.
+
+Sentence: The weather, is really nice today.
+
+Sentence: He studied hardly for the exam.
+ - Issue: The adverb ‘hardly’ is usually put before the verb ‘studied’.
+
+Sentence: There is many reasons for that.
+ - Issue: Did you mean “There are many reasons”?
+
+Sentence: I have seen that movie last week.
+
+Sentence: Theirs a big problem here.
+
+Sentence: She asked me if I can help her.
+
+Sentence: It is raining cats and dogs outside!
+
+Sentence: Do you knows him?
+
+Sentence: I am very very tired.
+ - Issue: Consider adding a comma between these intensifiers.
+
+Sentence: he went to london on monday.
+ - Issue: This sentence does not start with an uppercase letter.
+ - Issue: Possible spelling mistake found.
+ - Issue: Possible spelling mistake found.
+
+Sentence: We discussed about the issue.
+ - Issue: Did you mean simply “discussed the”? You do not need the word “about” here.
+
+Sentence: I would of gone if I knew.
+ - Issue: It’s never correct to use ‘of’ after a modal verb. Use “would have”, or, in informal register, “would've”.
